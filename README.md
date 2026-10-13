@@ -53,4 +53,4 @@ Este repositório contém a documentação e as telas do **Protótipo de Alta Fi
 
 * **Ano de Desenvolvimento:** 2026
 * **Tipo de Artefato:** Protótipo de Alta Fidelidade (UX/UI Design)
-* **Status:** Concluído / Em fase de implementação
+* **Status:** Concluído
